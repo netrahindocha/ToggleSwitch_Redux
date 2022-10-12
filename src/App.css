@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+
+.body{
+  margin: 0;
+}
+
+.room{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4em;
+}
+
+.flip{
+  font-size: 1.2em;
+  padding: 0.5em;
+  width: 5em;
+  background-color: orange;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.flip:hover{
+  background-color: rgb(255, 123, 0);
+}
+
+.lit {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
