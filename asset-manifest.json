@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToggleSwitch_Redux/static/css/main.3e87e79e.css",
+    "main.js": "/ToggleSwitch_Redux/static/js/main.b7b04749.js",
+    "static/js/787.1f6ab0ae.chunk.js": "/ToggleSwitch_Redux/static/js/787.1f6ab0ae.chunk.js",
+    "index.html": "/ToggleSwitch_Redux/index.html",
+    "main.3e87e79e.css.map": "/ToggleSwitch_Redux/static/css/main.3e87e79e.css.map",
+    "main.b7b04749.js.map": "/ToggleSwitch_Redux/static/js/main.b7b04749.js.map",
+    "787.1f6ab0ae.chunk.js.map": "/ToggleSwitch_Redux/static/js/787.1f6ab0ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e87e79e.css",
+    "static/js/main.b7b04749.js"
+  ]
+}
