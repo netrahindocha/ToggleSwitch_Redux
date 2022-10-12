@@ -2,7 +2,8 @@ import { changeMode } from "./Action"
 
 export const mapStateToProps = (state) => {
     return{
-        islightOn: state.islightOn
+        islightOn: state.islightOn,
+        theme: state.theme
     }
 }
 
